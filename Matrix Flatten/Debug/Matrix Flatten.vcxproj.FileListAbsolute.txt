@@ -1,0 +1,2 @@
+C:\Users\Ismai\source\repos\Matrix Flatten\Debug\Matrix Flatten.exe
+C:\Users\Ismai\source\repos\Matrix Flatten\Debug\Matrix Flatten.pdb
